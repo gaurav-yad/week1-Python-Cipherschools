@@ -1,0 +1,5 @@
+print(1,2,3,4,sep="-")
+print("A",end=")")
+print("b")
+print("gaurav\n","yadav")
+print (1)
